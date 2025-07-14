@@ -1,6 +1,6 @@
 # 🚀 Vaibhav Prajapati
 
-**Software Developer | Building Scalable and Innovative Solutions | IBM**
+**Software Developer | Building Scalable and Innovative Solutions**
 
 Hi, I’m **Vaibhav Prajapati** – a passionate Software Engineer with experience in developing and automating large-scale applications.
 
